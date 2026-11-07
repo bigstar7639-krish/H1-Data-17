@@ -16,3 +16,6 @@ A: 21 - Entertainment: Board Games
 Auto Quiz - Elephant 🧠
 Q: The human heart has how many chambers?
 A: 4 - Science & Nature
+Auto Quiz - Lion 🧠
+Q: What was the game "Galaga" was a sequel to?
+A: Galaxian - Entertainment: Video Games
