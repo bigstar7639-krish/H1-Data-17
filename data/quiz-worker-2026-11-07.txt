@@ -82,3 +82,6 @@ A: Atlanta - Entertainment: Music
 Auto Quiz - Cat 🧠
 Q: In the show Stranger Things, what is Eleven's favorite breakfast food?
 A: Eggo Waffles - Entertainment: Television
+Auto Quiz - Dog 🧠
+Q: What is the British term for a 64th note?
+A: Hemidemisemiquaver - Entertainment: Music
