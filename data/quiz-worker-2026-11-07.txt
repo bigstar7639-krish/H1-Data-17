@@ -94,3 +94,6 @@ A: 2004 - Entertainment: Music
 Auto Quiz - Space 🧠
 Q: In the complex plane, multiplying a given function by i rotates it anti-clockwise by how many degrees?
 A: 90 - Science: Mathematics
+Auto Quiz - Story 🧠
+Q: Pink Floyd made this song for their previous lead singer Syd Barrett.
+A: Shine On You Crazy Diamond - Entertainment: Music
