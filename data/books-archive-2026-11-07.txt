@@ -34,3 +34,4 @@ Kavithai - fte_book_keeranin-kavithai-keetrugal - Keeranin Kavithai Keetrugal
 Kavithai - kavithai-mozhi-thagarpum-amaipum - Kavithai Mozhi Thagarpum Amaipum
 Thirukkural - thirukkuraltamilprojectmadurai_202003_991_c - Thirukkural ( Tamil) ( Project Madurai)
 Thirukkural - thirukkural-express-first-volume - Thirukkural Express First Volume
+Pazhamozhi - 14PazhamozhiThirumanam1917 - 14 Pazhamozhi Thirumanam 1917
