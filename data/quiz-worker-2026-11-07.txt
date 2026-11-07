@@ -91,3 +91,6 @@ A: Nemean Lion - Animals
 Auto Quiz - Cricket 🧠
 Q: What year was Huun Huur Tu's album Altai Sayan Tandy-Uula released? 
 A: 2004 - Entertainment: Music
+Auto Quiz - Space 🧠
+Q: In the complex plane, multiplying a given function by i rotates it anti-clockwise by how many degrees?
+A: 90 - Science: Mathematics
