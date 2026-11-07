@@ -103,3 +103,6 @@ A: Ultima Online - Entertainment: Video Games
 Auto Quiz - Music 🧠
 Q: In the Marvel Universe, the planet of Svartalfheim is home to what race?
 A: Dark Elves - Entertainment: Comics
+Auto Quiz - Temple 🧠
+Q: According to the International System of Units, how many bytes are in a kilobyte of RAM?
+A: 1000 - Science: Computers
