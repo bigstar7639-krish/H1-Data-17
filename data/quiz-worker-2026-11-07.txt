@@ -109,3 +109,6 @@ A: 1000 - Science: Computers
 Auto Quiz - Sea 🧠
 Q: In vanilla Minecraft, which of the following cannot be made into a block?
 A: Charcoal - Entertainment: Video Games
+Auto Quiz - Mountain 🧠
+Q: In World of Warcraft Lore, four Old Gods created a giant and powerful creature. What was it called? 
+A: The Ancient One - Entertainment: Video Games
