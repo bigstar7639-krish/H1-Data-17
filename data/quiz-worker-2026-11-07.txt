@@ -106,3 +106,6 @@ A: Dark Elves - Entertainment: Comics
 Auto Quiz - Temple 🧠
 Q: According to the International System of Units, how many bytes are in a kilobyte of RAM?
 A: 1000 - Science: Computers
+Auto Quiz - Sea 🧠
+Q: In vanilla Minecraft, which of the following cannot be made into a block?
+A: Charcoal - Entertainment: Video Games
