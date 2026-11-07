@@ -29,3 +29,4 @@ Success - Wikimedia - https://commons.wikimedia.org/wiki/File:Architects_of_fate
 Success - Unsplash - https://source.unsplash.com/800x600/?success%20motivation
 Success - Openverse - https://www.flickr.com/photos/36281822@N08/4147500074
 Success - Openverse - https://www.flickr.com/photos/66261959@N08/8119317883
+Success - Wikimedia - https://commons.wikimedia.org/w/index.php?curid=194485516
