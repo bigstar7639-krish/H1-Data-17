@@ -33,3 +33,4 @@ Book - bwb_S0-ADB-783 - the magic garden of my book house
 Kavithai - fte_book_keeranin-kavithai-keetrugal - Keeranin Kavithai Keetrugal
 Kavithai - kavithai-mozhi-thagarpum-amaipum - Kavithai Mozhi Thagarpum Amaipum
 Thirukkural - thirukkuraltamilprojectmadurai_202003_991_c - Thirukkural ( Tamil) ( Project Madurai)
+Thirukkural - thirukkural-express-first-volume - Thirukkural Express First Volume
