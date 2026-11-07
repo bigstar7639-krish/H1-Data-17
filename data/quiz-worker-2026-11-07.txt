@@ -97,3 +97,6 @@ A: 90 - Science: Mathematics
 Auto Quiz - Story 🧠
 Q: Pink Floyd made this song for their previous lead singer Syd Barrett.
 A: Shine On You Crazy Diamond - Entertainment: Music
+Auto Quiz - Health 🧠
+Q: What was the name of the first MMORPG to popularize the genre?
+A: Ultima Online - Entertainment: Video Games
