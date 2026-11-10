@@ -112,3 +112,7 @@ Future - bwb_S0-DTV-561 - survey of science and technology issues present and fu
 Heart - pubmed-PMC3890914 - Prevalence and pattern of psychiatric morbidity and health related quality of life in patients with ischemic heart disease in a tertiary care hospital.
 Heart - pubmed-PMC4024672 - Effect of slow versus rapid rewarming on jugular bulb oxygen saturation in adult patients undergoing open heart surgery.
 Future - pubmed-PMC3339227 - Neurological soft signs in schizophrenia - The past, the present and the future.
+Freedom - freedom00leon - Freedom : more than 600 quotes celebrating independence, liberty, and justice
+Freedom - bwb_S0-ATH-647 - vanishing dinosaur freedom as vocation
+Hope - emergenceofhope0000jeff - Emergence of Hope
+Hope - bwb_C0-AUG-636 - thou, lord art my hope!
